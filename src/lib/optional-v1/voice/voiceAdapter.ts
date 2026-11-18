@@ -1,6 +1,6 @@
 "use client";
 
-import type { TutorLanguage } from "@/lib/ai/tutorProvider";
+import type { TutorLanguage } from "@/lib/optional-v1/ai/tutorProvider";
 
 /**
  * VoiceTransportAdapter abstracts the voice I/O layer.
